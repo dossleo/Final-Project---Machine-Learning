@@ -8,3 +8,4 @@
 leandrocontreiras19/leandrocontreiras19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+This project has a subject to show everyone my project final in graduate that the main purpose is create a classification modeling using random forest, logistic regression, between other, to identify failure in a mechanical bearing. 
